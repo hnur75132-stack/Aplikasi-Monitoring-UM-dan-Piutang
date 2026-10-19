@@ -1,0 +1,6 @@
+{
+  "name": "Monitoring Piutang & Realisasi PKS",
+  "description": "Dashboard real-time pemantauan piutang, realisasi pencairan dana Perjanjian Kerjasama (PKS), progres laporan SPJ, dan analisis tren penagihan bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
